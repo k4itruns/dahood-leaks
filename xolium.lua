@@ -615,6 +615,6 @@ getgenv().Xolium = {
             getgenv().Xolium.Silent.Prediction = prediction
             task.wait(0.00054)
             ifelse:
-            warn('Auto pred has broken.')
+            warn('Auto pred has broken. Please wait')
         end
 print('hi')
